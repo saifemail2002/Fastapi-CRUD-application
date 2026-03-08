@@ -1,6 +1,5 @@
 # Fastapi-CRUD-application-
 A FastAPI project , CRUD based application , using  pydantic , SQLAlchemy and Postgresql
-Backend includes API development in python using FastAPI , the frontent was not built(react is used for frontend)
 
 These backend skills were learnt during this project:
 
