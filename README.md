@@ -23,7 +23,7 @@ Deploying and running a full-stack web application
 
 ### 1. Clone the repository
 git clone https://github.com/saifemail2002/Fastapi-CRUD-application
-cd Fastapi-CRUD-application
+
 
 ### 2. Backend Setup (FastAPI)
 
