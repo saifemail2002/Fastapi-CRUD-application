@@ -5,6 +5,7 @@ A FastAPI project , CRUD based application , using  pydantic , SQLAlchemy and Po
 • Implemented REST APIs for create, read, update, delete operations
 
 These backend practises were implemented and learnt during this project:
+
 Building a server and creating GET, POST, PUT, and DELETE API endpoints
 Using Pydantic for data validation and fetching all products
 Integrating a database with SQLAlchemy
