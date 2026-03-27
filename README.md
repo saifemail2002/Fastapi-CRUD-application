@@ -1,11 +1,10 @@
 # Fastapi-CRUD-application
 A FastAPI project , CRUD based application , using  pydantic , SQLAlchemy and Postgresql
 
-• Built a CRUD inventory application using FastAPI
+• CRUD inventory application using FastAPI
 • Implemented REST APIs for create, read, update, delete operations
 
 These backend practises were implemented and learnt during this project:
-
 Building a server and creating GET, POST, PUT, and DELETE API endpoints
 Using Pydantic for data validation and fetching all products
 Integrating a database with SQLAlchemy
@@ -19,7 +18,7 @@ Deploying and running a full-stack web application
 - Integrating PostgreSQL with SQLAlchemy
 - Structuring a backend project
 
-## Setup and Run
+## Setup and Run2
 
 ### 1. Clone the repository
 git clone https://github.com/saifemail2002/Fastapi-CRUD-application
